@@ -1,8 +1,9 @@
 package openal_test
 
 import (
-	"github.com/dchote/go-openal/openal"
 	"testing"
+
+	"github.com/iu0jgo/go-openal/openal"
 )
 
 func TestGetVendor(t *testing.T) {
